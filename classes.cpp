@@ -178,9 +178,6 @@ void mastermind::Board::inputAndCheckCodeCustom(string &s)
 		}
 		else cout << "Original mastermind forbids the repetition of colours." << endl;
 	}
-
-	for (int i = 0; i < s.size(); i++)
-		if (s[i] > 96 && s[i] < 123) s[i]-=32;
 }
 
 void mastermind::Board::inputGuess()
