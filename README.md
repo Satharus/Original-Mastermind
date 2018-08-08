@@ -36,7 +36,7 @@ The feedback is given in the format of XBZW, where X and Z are both integers ref
 + A black peg means that a character in the guessed code is present in the set code and is in its correct place.
 + A white peg means that a character in the guessed code is present in the set code but isn't in its correct place.
 
-+ So, 0B4W means that player B has gotten all of the colours right but not in the correct order.
++ So, 0B4W means that player B has gotten all of the characters right but not in the correct order.
 + Also, 3B0W means that player B has 3 characters correct and in their right places but has one character wrong.
 
 ###### Example:
