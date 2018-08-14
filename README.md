@@ -1,5 +1,8 @@
 # Original Mastermind
 
+#### I dedicate this project to my grandfather, Mastermind was one of his favourite games. You were an amazing grandfather and parent, a hard worker, a caring husband, a virtuous and educated human being, and a great teacher. Thank you for everything, you're in a better place now. 
+***In the memory of Mohammed Elmayyah (1936-2018)***
+
 ### About
 
 Original Mastermind is a board game that originated from the 1970s, created by Mordecai Meirowitz. 
