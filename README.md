@@ -58,5 +58,5 @@ To run from a Linux shell:
 + Clone this repo, open a terminal in its folder and then run:
 ``` 
     g++ -std=c++11 classes.* main.cpp -o Mastermind #This compiles the files
-    ./Mastermind #Thie runs the executable
+    ./Mastermind #This runs the executable
 ```
